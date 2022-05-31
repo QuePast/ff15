@@ -1,2 +1,3 @@
 # ff15
-Scripts for FF15 platform
+League of legends scripts for platform ff15
+Discord: Rajovan#2838
