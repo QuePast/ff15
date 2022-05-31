@@ -1,4 +1,4 @@
-Private scripts and exploits for ff15 platform
+League of legends private scripts and exploits for ff15 platform
 
 Discord: Rajovan#2838
 
